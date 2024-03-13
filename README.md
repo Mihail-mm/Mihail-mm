@@ -1,6 +1,6 @@
-# Hi there 👋
+## Hi there 👋
 
-## I am Software Engineer from ITMO University
+# I am Software Engineer from ITMO University
 
 ### Languages and Tools:
 ![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
