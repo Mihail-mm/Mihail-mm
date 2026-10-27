@@ -1,12 +1,13 @@
-## Hi there 🤘
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/{{username}}/{{username}}/output/snake.svg" width="100%" />
+</picture>
 
-## Languages and Tools:
-![.Net](https://img.shields.io/badge/-Framework-090909?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-![Git](https://img.shields.io/badge/-Git-090909?style=for-the-badge&logo=Git&logoColor=#B22222)
-![Docker](https://img.shields.io/badge/-Docker-090909?style=for-the-badge&logo=Docker&logoColor=#FFA500)
-![Linux](https://img.shields.io/badge/-Linux-090909?style=for-the-badge&logo=Linux&logoColor=#F5F5DC)
-![SQL](https://img.shields.io/badge/-Sql-090909?style=for-the-badge&logo=PostgreSQL&logoColor=#696969)
+### {{name}}
 
-## Socials
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/drunkwoodcutter)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/bitsstd)
+> *{{tagline}}*
+
+The snake above is built fresh every day — it's eating real commits, not props.
+
+— [{{website}}]({{website_url}}) · [@{{twitter}}](https://twitter.com/{{twitter}})
